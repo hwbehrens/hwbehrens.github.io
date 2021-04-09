@@ -20,7 +20,7 @@ jobs:
       id: sitemap
       uses: cicirello/generate-sitemap@v1.6.2
       with:
-        base-url-path: https://https://behrens.dev/
+        base-url-path: https://behrens.dev/
 
     - name: Output stats
       run: |
