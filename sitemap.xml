@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://behrens.dev/</loc>
-<lastmod>2020-11-19T15:32:08-07:00</lastmod>
+<lastmod>2021-07-24T07:34:10-07:00</lastmod>
 </url>
 <url>
 <loc>https://behrens.dev/papers/cse575-2018-report.pdf</loc>
@@ -33,6 +33,10 @@
 <lastmod>2020-11-19T15:32:08-07:00</lastmod>
 </url>
 <url>
+<loc>https://behrens.dev/papers/moment-to-moment-love.pdf</loc>
+<lastmod>2021-07-24T07:29:26-07:00</lastmod>
+</url>
+<url>
 <loc>https://behrens.dev/papers/percom-2020-practical.pdf</loc>
 <lastmod>2020-01-14T14:57:55-07:00</lastmod>
 </url>
@@ -41,11 +45,15 @@
 <lastmod>2019-04-16T10:28:00-07:00</lastmod>
 </url>
 <url>
+<loc>https://behrens.dev/papers/tds-2021-datastorm.pdf</loc>
+<lastmod>2021-07-24T07:34:10-07:00</lastmod>
+</url>
+<url>
 <loc>https://behrens.dev/papers/vldb-2018-datastorm-fe.pdf</loc>
 <lastmod>2019-04-16T10:28:00-07:00</lastmod>
 </url>
 <url>
 <loc>https://behrens.dev/resume/hans_behrens_resume_full.pdf</loc>
-<lastmod>2021-04-09T15:19:59-07:00</lastmod>
+<lastmod>2021-06-07T09:22:47-07:00</lastmod>
 </url>
 </urlset>
